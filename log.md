@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 14, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: TBA
 
