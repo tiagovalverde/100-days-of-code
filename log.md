@@ -7,3 +7,11 @@
 **Thoughts:** I tried to find a very cool search bar animation for my project but I felt I was just copying and pasting code so I decided to keep the original search bar and later on I will customize progressively.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/tiagovalverde/full/JJzmPq/)
+
+### Day 1: July 15, 2017
+
+**Today's Progress**: Last CSS fixes related to mobile responsiveness and size of the paragraph element on blog pages.
+
+**Thoughts:** Despite my website is up and running, I always found myself making small changes in the CSS to correct little things that bother me. I think tomorow I will submit my first blog post. 
+
+**Link to work:** [http://tiagovalverde.com/](http://tiagovalverde.com/)
