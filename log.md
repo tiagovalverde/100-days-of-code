@@ -15,3 +15,11 @@
 **Thoughts:** Despite my website is up and running, I always found myself making small changes in the CSS to correct little things that bother me. I think tomorow I will submit my first blog post. 
 
 **Link to work:** [http://tiagovalverde.com/](http://tiagovalverde.com/)
+
+### Day 2: July 16, 2017
+
+**Today's Progress**: Wikipidea API request and JSON response through JS and jQuery. Able to list the first 10 results of the query with the respective title, summary and link to the wikipedia page of the article.
+
+**Thoughts:** I got the feeling tha the wikipedia page is too complex and has an enourmous number of options. Getting the exact date we need is tricky.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/tiagovalverde/full/JJzmPq/)
