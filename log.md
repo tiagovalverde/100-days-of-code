@@ -23,3 +23,11 @@
 **Thoughts:** I got the feeling tha the wikipedia page is too complex and has an enourmous number of options. Getting the exact date we need is tricky.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/tiagovalverde/full/JJzmPq/)
+
+### Day 3: July 17, 2017
+
+**Today's Progress**: Corrected mostly responsiveness issues and defined the colors of the web app.
+
+**Thoughts:** Choosing the color scheme for a web app is always a hard for me. I feel I do not have the sensisivity to choose the right colors. Project is almost done. My last challenge will be trying to add images to the search results.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/tiagovalverde/full/JJzmPq/)
