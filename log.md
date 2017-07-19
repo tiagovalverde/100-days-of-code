@@ -31,3 +31,11 @@
 **Thoughts:** Choosing the color scheme for a web app is always a hard for me. I feel I do not have the sensisivity to choose the right colors. Project is almost done. My last challenge will be trying to add images to the search results.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/tiagovalverde/full/JJzmPq/)
+
+### Day 4: July 18, 2017
+
+**Today's Progress**: Started my TwitchTV, another FreeCodeCamp Project. Simply read the requirements and setup a raw HTML CSS to work with.
+
+**Thoughts:** My goal is to do a webapp with a responsive grid instead of a list of channels as shown in the example in order to be a little different and not just reverse engineer the layout.
+
+**Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
