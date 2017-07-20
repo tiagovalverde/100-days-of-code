@@ -39,3 +39,11 @@
 **Thoughts:** My goal is to do a webapp with a responsive grid instead of a list of channels as shown in the example in order to be a little different and not just reverse engineer the layout.
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
+
+### Day 4: July 18, 2017
+
+**Today's Progress**: Started setting up requests using the twitch API to obtain the user's name, logo and status.
+
+**Thoughts:** FreeCodeCamp provides a simple workaround to avoid using the Client-ID for Kraken API calls. Also, today was a long day and did not coded as much as I wanted. 
+
+**Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
