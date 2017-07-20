@@ -40,7 +40,7 @@
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
 
-### Day 4: July 18, 2017
+### Day 5: July 19, 2017
 
 **Today's Progress**: Started setting up requests using the twitch API to obtain the user's name, logo and status.
 
