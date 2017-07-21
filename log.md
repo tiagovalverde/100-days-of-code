@@ -47,3 +47,11 @@
 **Thoughts:** FreeCodeCamp provides a simple workaround to avoid using the Client-ID for Kraken API calls. Also, today was a long day and did not coded as much as I wanted. 
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
+
+### Day 6: July 20, 2017
+
+**Today's Progress**: Able to get all necessary data from the Twitch API and populate it.
+
+**Thoughts:** Finding a workaround to obtain the data sequentially was challenging. I still get confused with variable scopes.
+
+**Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
