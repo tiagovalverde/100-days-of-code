@@ -55,3 +55,11 @@
 **Thoughts:** Finding a workaround to obtain the data sequentially was challenging. I still get confused with variable scopes.
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
+
+### Day 7: July 21, 2017
+
+**Today's Progress**: Add links to the Twitch users online and CSS layout changes.
+
+**Thoughts:** The hard part of the project is done. Mostly what I have to do is positioning the data, add color scheme and effects/animations. Able to program only one hour today.
+
+**Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
