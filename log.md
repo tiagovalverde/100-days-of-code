@@ -63,3 +63,11 @@
 **Thoughts:** The hard part of the project is done. Mostly what I have to do is positioning the data, add color scheme and effects/animations. Able to program only one hour today.
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
+
+### Day 8: July 22, 2017
+
+**Today's Progress**: Finished up TwitchTV project
+
+**Thoughts:** Finished faster than I thouhth. However, I choosed to not implment some extra features I was thinking. I rather jump to the next freecodecamp project to reach my goal.
+
+**Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
