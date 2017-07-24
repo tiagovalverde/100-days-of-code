@@ -79,3 +79,11 @@
 **Thoughts:** Only able to create the pen and create basic HTML/CSS.
 
 **Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/zdYKPO/)
+
+### Day 10: July 24, 2017
+
+**Today's Progress**: Calculator design. Playing with shadows, 3d effects on buttons and colors.
+
+**Thoughts:** I actually had an idea that building the calculator layout was going to be time consiuming but I did better than expected. Never create expectations, just go for it. 
+
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/zdYKPO/)
