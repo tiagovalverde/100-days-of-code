@@ -71,3 +71,11 @@
 **Thoughts:** Finished faster than I thouhth. However, I choosed to not implment some extra features I was thinking. I rather jump to the next freecodecamp project to reach my goal.
 
 **Link to work:** [TwitchTV](https://codepen.io/tiagovalverde/full/VWJaaR/)
+
+### Day 9: July 23, 2017
+
+**Today's Progress**: Started the JavaScript Calculator
+
+**Thoughts:** Only able to create the pen and create basic HTML/CSS.
+
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/zdYKPO/)
