@@ -78,7 +78,7 @@
 
 **Thoughts:** Only able to create the pen and create basic HTML/CSS.
 
-**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/zdYKPO/)
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
 
 ### Day 10: July 24, 2017
 
@@ -86,4 +86,12 @@
 
 **Thoughts:** I actually had an idea that building the calculator layout was going to be time consiuming but I did better than expected. Never create expectations, just go for it. 
 
-**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/zdYKPO/)
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
+
+### Day 11: July 25, 2017
+
+**Today's Progress**: Calculator design. Screen shadow, zero and equal button design. Jquery on click events.
+
+**Thoughts:** I am wondering if i use only on button on click event and deal with logic in a sequence of conditions calling externar smaller functions do execute the logic or a cick event for every button.
+
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
