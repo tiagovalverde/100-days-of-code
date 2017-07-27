@@ -95,3 +95,11 @@
 **Thoughts:** I am wondering if i use only on button on click event and deal with logic in a sequence of conditions calling externar smaller functions do execute the logic or a cick event for every button.
 
 **Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
+
+### Day 12: July 26, 2017
+
+**Today's Progress**: Printing to the calculator screen and logic of recognizing the type of button clicked.
+
+**Thoughts:** Today was more about thinking than coding. Had to go back to the basics and create a fluxogram of decision making.
+
+**Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
