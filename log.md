@@ -103,3 +103,11 @@
 **Thoughts:** Today was more about thinking than coding. Had to go back to the basics and create a fluxogram of decision making.
 
 **Link to work:** [Javascript Calculator](https://codepen.io/tiagovalverde/full/WENWPa/)
+
+### Day 13: July 27, 2017
+
+**Today's Progress**: Migrated the project to Github and created the functions for each type of button (digit, dot and clear).
+
+**Thoughts:** After reading Danny Huang's [article](https://medium.freecodecamp.org/got-a-react-developer-job-during-my-100dayscodechallenge-f455175d3776) on Medium I decided to start Github while developing my projects. I took the free Udacity course on Git & Github 2 months ago but didnt took it seriously because codepen offers simplicity. This way I will be able to work offline more often, will keep track of my progress and will be more careful writing my code.
+
+**Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
