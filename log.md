@@ -111,3 +111,11 @@
 **Thoughts:** After reading Danny Huang's [article](https://medium.freecodecamp.org/got-a-react-developer-job-during-my-100dayscodechallenge-f455175d3776) on Medium I decided to start Github while developing my projects. I took the free Udacity course on Git & Github 2 months ago but didnt took it seriously because codepen offers simplicity. This way I will be able to work offline more often, will keep track of my progress and will be more careful writing my code.
 
 **Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
+
+### Day 14: July 28, 2017
+
+**Today's Progress**: Calculator screen - result and history fields interaction with the buttons.
+
+**Thoughts:** Today was a slow process and a little bit confusing. Had to go through all the possible states of the calculator screen and the data shown. A lot of conditions to cover in order to provide a smooth user experience.
+
+**Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
