@@ -119,3 +119,11 @@
 **Thoughts:** Today was a slow process and a little bit confusing. Had to go through all the possible states of the calculator screen and the data shown. A lot of conditions to cover in order to provide a smooth user experience.
 
 **Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
+
+### Day 15: July 29, 2017
+
+**Today's Progress**: Button CE functionality finished, arithmetic operation using eval, mobile full screen background image fixed, code cleanup. JS Calculator project finished (6 hours)
+
+**Thoughts:** Experienced the real potential of the function eval() in Javascript. I was initially worried about the time I was going to spend converting the string to an aithemtic operation but with eval() took me one line off code. 
+
+**Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
