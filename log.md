@@ -127,3 +127,11 @@
 **Thoughts:** Experienced the real potential of the function eval() in Javascript. I was initially worried about the time I was going to spend converting the string to an aithemtic operation but with eval() took me one line off code. 
 
 **Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
+
+### Day 15: July 29, 2017
+
+**Today's Progress**: Bugs fixes after others campers feedback. However, decided to limit size of an input to 9 digits and the arithmetic chain of 22 characters. If than limits are exceeded no result is printed. (1 hours)
+
+**Thoughts:** I realized that making artihemtic operations to the console.log() versus to the sceen is a lot different. Thanks to the feedback of other campers I found some bugs and fix it. My user experience off an application is always seen differently from others. 
+
+**Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
