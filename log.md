@@ -128,7 +128,7 @@
 
 **Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
 
-### Day 15: July 29, 2017
+### Day 16: July 30, 2017
 
 **Today's Progress**: Bugs fixes after others campers feedback. However, decided to limit size of an input to 9 digits and the arithmetic chain of 22 characters. If than limits are exceeded no result is printed. (1 hours)
 
