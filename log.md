@@ -135,3 +135,11 @@
 **Thoughts:** I realized that making artihemtic operations to the console.log() versus to the sceen is a lot different. Thanks to the feedback of other campers I found some bugs and fix it. My user experience off an application is always seen differently from others. 
 
 **Link to work:** [Javascript Calculator](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/javascript-calculator)
+
+### Day 17: July 31, 2017
+
+**Today's Progress**: Started a Pomodoro Clock Project for FreeCodeCamp.(3 hours)
+
+**Thoughts:** I am curious to find out a way to implement a timer effect and I am planning to finish this project by August 6, 2017.
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
