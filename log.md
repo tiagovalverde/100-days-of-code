@@ -143,3 +143,11 @@
 **Thoughts:** I am curious to find out a way to implement a timer effect and I am planning to finish this project by August 6, 2017.
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 18: August 1, 2017
+
+**Today's Progress**: Tested different range sliders to use as time setup for Pomodoro Clock.(1 hours)
+
+**Thoughts:** I tried to use a jQuery mobile range slider which looke awseome, but CSS conflicts between jQuery mobile and Boostrap made me give a step back and go with a simpler solution.
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
