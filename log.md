@@ -151,3 +151,11 @@
 **Thoughts:** I tried to use a jQuery mobile range slider which looke awseome, but CSS conflicts between jQuery mobile and Boostrap made me give a step back and go with a simpler solution.
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 19: August 2, 2017
+
+**Today's Progress**: Implemented range slider to be used to setup the timer.(1 hours)
+
+**Thoughts:** Sometimes it is better too look for simple solutions and adapt to your project the way you want it instead of using a full library. 
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
