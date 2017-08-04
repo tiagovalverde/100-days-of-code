@@ -159,3 +159,11 @@
 **Thoughts:** Sometimes it is better too look for simple solutions and adapt to your project the way you want it instead of using a full library. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 20: August 3, 2017
+
+**Today's Progress**: Countdown implementation(2 hours)
+
+**Thoughts:** Saved a lot of time because found a countdown library. 
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
