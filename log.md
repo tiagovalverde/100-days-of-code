@@ -167,3 +167,11 @@
 **Thoughts:** Saved a lot of time because found a countdown library. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 21: August 4, 2017
+
+**Today's Progress**: Countdown fully working (1 hour)
+
+**Thoughts:** Getting to know better how to work with the DOM with Javascript. 
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
