@@ -175,3 +175,11 @@
 **Thoughts:** Getting to know better how to work with the DOM with Javascript. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 22: August 5, 2017
+
+**Today's Progress**: Sync countdown timer with circle bar effect (2 hour)
+
+**Thoughts:** Today I got stuck on the manipulation of animations of svg. Spent most of the time trying to solve a problem which I didnt find yet. However, I found a the library progressbar.js and tomorrow I will give it another try.
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
