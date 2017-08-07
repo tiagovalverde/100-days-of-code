@@ -183,3 +183,11 @@
 **Thoughts:** Today I got stuck on the manipulation of animations of svg. Spent most of the time trying to solve a problem which I didnt find yet. However, I found a the library progressbar.js and tomorrow I will give it another try.
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 23: August 6, 2017
+
+**Today's Progress**: svg circular progress bar fully functional & smooth sound effect added (2.5 hours)
+
+**Thoughts:** Finally got the svg animation to work. What a pain it was. Next step is to Make the web page responsive and apply a color scheme. Defined the project deadline for today but will have to delay for one day. 
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
