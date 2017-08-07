@@ -191,3 +191,11 @@
 **Thoughts:** Finally got the svg animation to work. What a pain it was. Next step is to Make the web page responsive and apply a color scheme. Defined the project deadline for today but will have to delay for one day. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 24: August 7, 2017
+
+**Today's Progress**: Pomodoro Clock Finished - Responsive layout, color scheme and finished (3.5 hours)
+
+**Thoughts:** I am starting to design the layout and apply the color schemes way faster compared when I first started the freecodecamp projects. Now the challenge is in coding Javascript more organized. Might start reading the book JS Design Patterns.
+
+**Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
