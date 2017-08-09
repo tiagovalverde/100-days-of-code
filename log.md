@@ -199,3 +199,13 @@
 **Thoughts:** I am starting to design the layout and apply the color schemes way faster compared when I first started the freecodecamp projects. Now the challenge is in coding Javascript more organized. Might start reading the book JS Design Patterns.
 
 **Link to work:** [Pomodoro Clock](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/pomodoro-clock)
+
+### Day 25: August 8, 2017
+
+**Today's Progress**: Started TicTacToe Game project. Setup basic HTML layout and created repository on github (1 hour)
+
+**Thoughts:** I got excited with some nice ideas for the design of the game. I hope it works what I am thinking.
+
+**Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
+
+
