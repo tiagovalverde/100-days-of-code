@@ -208,4 +208,12 @@
 
 **Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
 
+### Day 25: August 19, 2017
+
+**Today's Progress**: Started the JavaScript30 course and completed the first micro project (1 hour)
+
+**Thoughts:** Obtain a better understading of CSS transitions and got to work with HTML element using pure JS, not jQuery. Skipped 10 days of the #100DaysofCode challenge because I am currently on vacations. I am been trying to compensate the lack of coding by reading YDKJS as much as I can. I am thinking in starting the challenging from day 0 when I come back to Toronto.
+
+**Link to work:** [Javascript Drum Kit](https://github.com/tiagovalverde/Javascript30DayChallenge/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
 
