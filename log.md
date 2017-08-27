@@ -216,4 +216,13 @@
 
 **Link to work:** [Javascript Drum Kit](https://github.com/tiagovalverde/Javascript30DayChallenge/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
+### Day 26: August 27, 2017
+
+**Today's Progress**: Second project of JavaScript30 course done and worked on the TicTacToe game for FreeCodeCamp (2.5 hours)
+
+**Thoughts:** Practiced  pure javascript withouth the jQuery support and worked on the TicTacToe game design
+
+**Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
+
+
 
