@@ -224,5 +224,11 @@
 
 **Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
 
+### Day 26: August 28, 2017
 
+**Today's Progress**: Third project of JavaScript30 course done (1 hour)
+
+**Thoughts:** Worked with CSS variables. Manipulation through JS
+
+**Link to work:** [CSS Variables](https://github.com/tiagovalverde/Javascript30DayChallenge/tree/master/03%20-%20CSS%20Variables)
 
