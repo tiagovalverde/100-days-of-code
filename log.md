@@ -224,7 +224,7 @@
 
 **Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
 
-### Day 26: August 28, 2017
+### Day 27: August 28, 2017
 
 **Today's Progress**: Third project of JavaScript30 course done (1 hour)
 
