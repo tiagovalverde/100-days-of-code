@@ -232,3 +232,10 @@
 
 **Link to work:** [CSS Variables](https://github.com/tiagovalverde/Javascript30DayChallenge/tree/master/03%20-%20CSS%20Variables)
 
+### Day 28: August 29, 2017
+
+**Today's Progress**: Practice flexbox to create a image gallery (1 hour)
+
+**Thoughts:** Again I realize the importance of trasitions and transform attributes.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
