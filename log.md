@@ -239,3 +239,11 @@
 **Thoughts:** Again I realize the importance of trasitions and transform attributes.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 29: August 30, 2017
+
+**Today's Progress**: Starting menu and transitions (1.5 hour)
+
+**Thoughts:** Stuggled with the addEventListener inside foreach on elements list.
+
+**Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
