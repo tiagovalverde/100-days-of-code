@@ -244,6 +244,14 @@
 
 **Today's Progress**: Starting menu and transitions (1.5 hour)
 
-**Thoughts:** Stuggled with the addEventListener inside foreach on elements list.
+**Thoughts:** Struggled with the addEventListener inside foreach on elements list.
 
 **Link to work:** [TicTacToe Game](https://github.com/tiagovalverde/FreeCodeCamp/tree/master/tictactoe-game)
+
+### Day 30: August 31, 2017
+
+**Today's Progress**: Review array methods (1 hour)
+
+**Thoughts:** Really useful project from VanilaJS course by Wes Bos reviewing all the methods available on arrays. It was really helpful because when I had to appply them in FCC challenges I struggled a lot.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
