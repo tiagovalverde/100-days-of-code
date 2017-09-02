@@ -255,3 +255,11 @@
 **Thoughts:** Really useful project from VanilaJS course by Wes Bos reviewing all the methods available on arrays. It was really helpful because when I had to appply them in FCC challenges I struggled a lot.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 31: September 1, 2017
+
+**Today's Progress**: Track keyboard input sequence (0.5 hour)
+
+**Thoughts:** Konami code detection simulation 
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
