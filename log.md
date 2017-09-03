@@ -263,3 +263,11 @@
 **Thoughts:** Konami code detection simulation 
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 32: September 2, 2017
+
+**Today's Progress**: More on array methods (0.5 hour)
+
+**Thoughts:** .some() .every() .find() .findIndex()
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
