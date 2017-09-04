@@ -271,3 +271,11 @@
 **Thoughts:** .some() .every() .find() .findIndex()
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 33: September 3, 2017
+
+**Today's Progress**: VanillaJS - Fetch method to obtian JSON & Improvements on TicTacToe game (3 hour)
+
+**Thoughts:** Really loving the Javascript30 course by Wes Bos. I have been doing the FCC course only reading and googling for solutions around, but having someone explaining and coding at the same time it really helps to understand how certain things are done. Definetly start to approach different types of learning in the future.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
