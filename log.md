@@ -279,3 +279,19 @@
 **Thoughts:** Really loving the Javascript30 course by Wes Bos. I have been doing the FCC course only reading and googling for solutions around, but having someone explaining and coding at the same time it really helps to understand how certain things are done. Definetly start to approach different types of learning in the future.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 34: September 4, 2017
+
+**Today's Progress**: VanillaJS - Created a HTML5 simple canvas drawing (1 hour)
+
+**Thoughts:** Suprised how easy and not far from what I knew was to set up a simple HTML5 drawing canvas.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 35: September 5, 2017
+
+**Today's Progress**: Explored Chome Dev Tools & Worked on my TicTacToe game (3 hours)
+
+**Thoughts:** Started my CompSci second year today and from now on time to code everyday, at least outside university classes, will be narrower. 
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
