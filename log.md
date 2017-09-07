@@ -295,3 +295,11 @@
 **Thoughts:** Started my CompSci second year today and from now on time to code everyday, at least outside university classes, will be narrower. 
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 36: September 6, 2017
+
+**Today's Progress**: Refractoring code for TicTacToe & Playing with checkboxes and key shortcuts (1 hour)
+
+**Thoughts:** The code for my TicTacToe game started to get messy so I decided to do some refractoring. Also, for the javascript30 course, got to check some multiple checkboxes by using the shift key as a shortcut (similar to what happen in the Gmail checkboxes).
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
