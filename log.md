@@ -303,3 +303,19 @@
 **Thoughts:** The code for my TicTacToe game started to get messy so I decided to do some refractoring. Also, for the javascript30 course, got to check some multiple checkboxes by using the shift key as a shortcut (similar to what happen in the Gmail checkboxes).
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 37: September 7, 2017
+
+**Today's Progress**: Slide images effect on scroll with transform and translateX (0.5 hour)
+
+**Thoughts:** The tricky part was calculating the location of the image block to apply the effect. Learn how to use the scroll events and calculate the size of the screen and the size of the image.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 38: September 9, 2017
+
+**Today's Progress**: Filter array elements with regex and .replace (0.5 hour)
+
+**Thoughts:** Additionaly, got to know a few more tricks to sort(), regex techniques and efficient way to print lists of data into innerHTML.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
