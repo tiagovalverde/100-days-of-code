@@ -319,3 +319,11 @@
 **Thoughts:** Additionaly, got to know a few more tricks to sort(), regex techniques and efficient way to print lists of data into innerHTML.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 39: September 10, 2017
+
+**Today's Progress**: JS references vs copy practice (1 hour)
+
+**Thoughts:** Learned when references to arrays and objects are made and how to create a copy of them. Variables are always passed as a copy. Today I also started learning SmalTalk for one of my CompSci courses.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
