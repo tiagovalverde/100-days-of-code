@@ -327,3 +327,11 @@
 **Thoughts:** Learned when references to arrays and objects are made and how to create a copy of them. Variables are always passed as a copy. Today I also started learning SmalTalk for one of my CompSci courses.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 39: September 10, 2017
+
+**Today's Progress**: JS Geolocation, Speedometer and Compass (1 hour)
+
+**Thoughts:** Obtain real time speed and heading (degrees) of a smartphone using geolocation. Additionally, today I made the Caesar Cipher algorithm in SmallTalk on Pharos.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
