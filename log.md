@@ -335,3 +335,11 @@
 **Thoughts:** Obtain real time speed and heading (degrees) of a smartphone using geolocation. Additionally, today I made the Caesar Cipher algorithm in SmallTalk on Pharos.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 41: September 12, 2017
+
+**Today's Progress**: Dynamically update text shadow on mouse move (3 hour)
+
+**Thoughts:** Another Javascript30 video about updating text shadow on mouse move playing with cursor and elements offsets. Also, review C syntax by creating a simple linked list with nodes and practice some more SmallTalk, following the Pharo by example book.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
