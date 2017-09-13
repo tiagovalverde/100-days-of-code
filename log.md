@@ -338,8 +338,16 @@
 
 ### Day 41: September 12, 2017
 
-**Today's Progress**: Dynamically update text shadow on mouse move (3 hour)
+**Today's Progress**: Dynamically update text shadow on mouse move (3 hours)
 
 **Thoughts:** Another Javascript30 video about updating text shadow on mouse move playing with cursor and elements offsets. Also, review C syntax by creating a simple linked list with nodes and practice some more SmallTalk, following the Pharo by example book.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 42: September 13, 2017
+
+**Today's Progress**: Manipulate time in string to calculate total amount of time in a list of time (0.5 hour)
+
+**Thoughts:** More practice with array methods in a Javascript30 project.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
