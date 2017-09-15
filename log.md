@@ -351,3 +351,11 @@
 **Thoughts:** More practice with array methods in a Javascript30 project.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 43: September 14, 2017
+
+**Today's Progress**: Built a custom HTML5 video player (1 hour)
+
+**Thoughts:** What a great exercise to practice event listeners and videpo player properties.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
