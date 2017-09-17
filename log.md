@@ -356,6 +356,22 @@
 
 **Today's Progress**: Built a custom HTML5 video player (1 hour)
 
-**Thoughts:** What a great exercise to practice event listeners and videpo player properties.
+**Thoughts:** What a great exercise to practice event listeners and video player properties.
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 44: September 15, 2017
+
+**Today's Progress**: Follow along link highlighter (0.5 hour)
+
+**Thoughts:** Worked with properties of the method getBoundingClientRect() to obtain location of a specific element. Also applied CSS transforms anf recalculated elments position by taking into account windows.scrollY
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 45: September 16, 2017
+
+**Today's Progress**: Browser local storage and Event delegation (1 hour)
+
+**Thoughts:** Great lesson today with a Javascript30 challenge. Learned how to prevent a form from refreshing the page on submit, how to update HTML elements dynamically as well hadling its events, how to storage data in the browser and also how to use emojis on Sublime Text editor.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
