@@ -383,3 +383,11 @@
 **Thoughts:** How to deal with nested event listeners with properties such as: capture, once and stopPropagation()
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 47: September 18, 2017
+
+**Today's Progress**: Learned the basics of the browser native speech recognition (1 hour)
+
+**Thoughts:** Another functionality that I considered "difficult" to implement was actually super simple. Also got to use npm for the first time to setup a local server. 
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
