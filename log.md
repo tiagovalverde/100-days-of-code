@@ -375,3 +375,11 @@
 **Thoughts:** Great lesson today with a Javascript30 challenge. Learned how to prevent a form from refreshing the page on submit, how to update HTML elements dynamically as well hadling its events, how to storage data in the browser and also how to use emojis on Sublime Text editor.
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 46: September 17, 2017
+
+**Today's Progress**: Event Capture, Propagation, Bubbling and Once (0.5 hour)
+
+**Thoughts:** How to deal with nested event listeners with properties such as: capture, once and stopPropagation()
+
+**Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
