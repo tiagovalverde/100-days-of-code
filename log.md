@@ -391,3 +391,40 @@
 **Thoughts:** Another functionality that I considered "difficult" to implement was actually super simple. Also got to use npm for the first time to setup a local server. 
 
 **Link to work:** [JS30Challenge](https://github.com/tiagovalverde/Javascript30DayChallenge)
+
+### Day 48: September 19, 2017
+
+**Today's Progress**: Read and applied different type of recursion in C (2 hours)
+
+**Thoughts:** Read and applied the different types of recursion: Going up, going down, edges to center and division in halves.
+
+### Day 49: September 20, 2017
+
+**Today's Progress**: Started SmallTalk (Pharo5) assignment for my Data Structures course (1 hour)
+
+**Thoughts:** The goal of the assignment is to simulate the output of a sequence of moves in a tetris game.
+
+### Day 49: September 20, 2017
+
+**Today's Progress**: Smalltalk - worked with ReadStreams to recognize the command inputs (1 hour)
+
+**Thoughts:** Pharo editor forces to program in a different manner. The classes and methods are presented in different windows. It is not a common editor. Also, enhances the usage of the debugger and testing tools.
+
+### Day 50: September 21, 2017
+
+**Today's Progress**: Smalltalk - worked with collections and its existent methods (3 hours)
+
+**Thoughts:** Pharo editor has its entire library available offline which make it faster to check if a determined function exists.
+
+### Day 51: September 22, 2017
+
+**Today's Progress**: Smalltalk - worked with the Matrix class to handle the board game state (3 hours)
+
+**Thoughts:** It is harder to learn a language  when there is not many solutions online. I have to rely on the book and direct library.
+
+### Day 52: September 23, 2017
+
+**Today's Progress**: Smalltalk - Able to easily manipute matrixes on Smalltalk (2 hours)
+
+**Thoughts:** Starting to get used to the syntax. Next challenge is to create the pieces of the game.
+
