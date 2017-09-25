@@ -428,3 +428,9 @@
 
 **Thoughts:** Starting to get used to the syntax. Next challenge is to create the pieces of the game.
 
+### Day 53: September 24, 2017
+
+**Today's Progress**: Smalltalk - Worked with OrderedCollections and WriteStream and created the game board (3 hours)
+
+**Thoughts:** Next step; work on the dice rolls data. 
+
