@@ -15,3 +15,20 @@
 * Learned how to fetch data with Laravel from MySql
 * Started reviewing the SQL fundamentals with SoloLearn
 
+### Day 1: February 22, 2018
+
+**Today's Progress:**
+
+* Angular 5 The Complete Guide - Deployed first angular application on Amazon Web Services and also to a custom server.
+* Laravel - More on eloquent. Working with paginate(), take() as well as raw SQL queries to the database with DB::Select('');
+* SQL - Filtering, Functions and SubQueries
+
+### Day 2: February 23, 2018
+
+**Today's Progress:**
+
+* Angular 5 The Complete Guide - Comparing Http and HttpClient Modules
+* Laravel - Create a RESTFul API for using Resources & testing API with Postman
+* FreeCodeCamp - Finished how-to-npm
+* SQL - Join and table operations
+
