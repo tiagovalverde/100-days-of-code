@@ -32,3 +32,10 @@
 * FreeCodeCamp - Finished how-to-npm
 * SQL - Join and table operations
 
+### Day 3: February 24, 2018
+
+**Today's Progress:**
+
+* Angular 5 The Complete Guide - HttpClient interceptor and creating reducers with ngrx
+* JavaScript - Back to the basics review
+* FreeCodeCamp - Started learnyounode
