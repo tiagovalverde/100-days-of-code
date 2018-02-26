@@ -39,3 +39,14 @@
 * Angular 5 The Complete Guide - HttpClient interceptor and creating reducers with ngrx
 * JavaScript - Back to the basics review
 * FreeCodeCamp - Started learnyounode
+
+### Day 4: February 25, 2018
+
+**Today's Progress:**
+
+* Angular 5 The Complete Guide - Using Actions in Reducers and comparison with Services and Observables
+* JavaScript - Back to the basics review - DOM Manipultation
+* FreeCodeCamp - learnyounode - File reading and how Callbacks work in node
+
+**Thoughts:**
+* Not much time today, 2 midterms coming up this week.
