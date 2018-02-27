@@ -50,3 +50,11 @@
 
 **Thoughts:**
 * Not much time today, 2 midterms coming up this week.
+
+### Day 5: February 26, 2018
+
+**Today's Progress:**
+
+* Angular 5 The Complete Guide - **ngrx** reducers and actions. TypeScript **Interface** use cases
+* FreeCodeCamp - learnyounode - Recreating the command **ls** with the use of callback, fs and path modules.
+* HTML - Back to the basics review - Solo Learn challenges
