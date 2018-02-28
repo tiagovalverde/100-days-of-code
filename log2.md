@@ -58,3 +58,10 @@
 * Angular 5 The Complete Guide - **ngrx** reducers and actions. TypeScript **Interface** use cases
 * FreeCodeCamp - learnyounode - Recreating the command **ls** with the use of callback, fs and path modules.
 * HTML - Back to the basics review - Solo Learn challenges
+
+### Day 6: February 27, 2018
+
+**Today's Progress:**
+
+* FreeCodeCamp - learnyounode - Creating my first module and use it in another program.
+* CSS - Back to the basics review - Solo Learn challenges
