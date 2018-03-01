@@ -65,3 +65,11 @@
 
 * FreeCodeCamp - learnyounode - Creating my first module and use it in another program.
 * CSS - Back to the basics review - Solo Learn challenges
+
+### Day 7: February 28, 2018
+
+**Today's Progress:**
+
+* FreeCodeCamp - learnyounode - Using the http module for API requests anf module buffer list handle response data.
+* Laravel - Working with Forms Collective and saving data
+* CSS - Back to the basics review - Solo Learn challenges
