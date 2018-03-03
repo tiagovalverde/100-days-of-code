@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 9: March 2, 2018
+
+**Today's Progress:**
+* FreeCodeCamp - Express.js - handling requests from different pages, middlewares and views using pug
+* CSS - Visibility and Position review
+
 ### Day 8: March 1, 2018
 
 **Today's Progress:**
