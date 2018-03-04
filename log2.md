@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log 2
 
+### Day 10: March 3, 2018
+
+**Today's Progress:**
+* FreeCodeCamp - Express.js - finished expressworks nodeschool chanllenges
+* Angular - Working on a small app to apply learned knowledge
+* Laravel - Applied relationship between models and databse betwenn models
+
 ### Day 9: March 2, 2018
 
 **Today's Progress:**
