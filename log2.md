@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 11: March 4, 2018
+
+**Today's Progress:**
+* FreeCodeCamp - MongoDB - started learnyoumongo challenges from NodeSchool
+* CSS - Reviewed CSS3 basics - Pseudo classes, pseudo elements, transparency and box shadow
+
 ### Day 10: March 3, 2018
 
 **Today's Progress:**
