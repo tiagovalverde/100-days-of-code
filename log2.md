@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 2
 
+### Day 12: March 5, 2018
+
+**Today's Progress:**
+* FreeCodeCamp - MongoDB - finished learnyoumongo challenges from NodeSchool
+* FreeCodeCamp - git/github - Did the git-it nodeschool tutorial
+* FreeCodeCamp - TimeStamp Microservices project with node.js
+* HackerRank - Java challenges
+* CSS Challenge - Apply css transitions with pure CSS
+
 ### Day 11: March 4, 2018
 
 **Today's Progress:**
