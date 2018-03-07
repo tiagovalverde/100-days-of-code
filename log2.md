@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 2
 
+### Day 13: March 6, 2018
+
+**Today's Progress:**
+* FreeCodeCamp - TimeStamp Microservices - created index page with pug view
+* HackerRank - Java challenges
+* Laravel - Users access control
+* Angular - Trying to work with multiple modules
+* Hexo - Creating custom templats
+* CSS GRID - building a responsive website
+
 ### Day 12: March 5, 2018
 
 **Today's Progress:**
