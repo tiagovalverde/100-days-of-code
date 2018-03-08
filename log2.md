@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log 2
 
+### Day 14: March 7, 2018
+
+**Today's Progress:**
+* Laravel - File Image upload and trying to deploy.
+* Angular - Use services to fetch api data.
+
+
 ### Day 13: March 6, 2018
 
 **Today's Progress:**
