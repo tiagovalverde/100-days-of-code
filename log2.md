@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log 2
 
+### Day 16: March 9, 2018
+
+**Today's Progress:**
+* Angular - ngrx effects
+* Angular - finished building todo list app
+* Hacker Rank - Solve Java Challenges
+* FreeCodeCamp - Used the momentjs module to handle the date parsing
+
+### Day 15: March 8, 2018
+
+**Today's Progress:**
+* Angular - ngrx effects
+* Angular - strat building todo list app
+* Hacker Rank - Solve Java Challenges
+* FreeCodeCamp - Learned more about pug and used bower to import bootstrap to my nodejs project.
+
 ### Day 14: March 7, 2018
 
 **Today's Progress:**
