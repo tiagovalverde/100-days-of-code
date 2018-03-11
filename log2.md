@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 17: March 10, 2018
+
+**Today's Progress:**
+* CSS - Learned the usage of pseudo elements and also the operators +, ~ and >
+* Java - Took a udemy introductory course on Spring Boot
+
 ### Day 16: March 9, 2018
 
 **Today's Progress:**
