@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 18: March 11, 2018
+
+**Today's Progress:**
+* Java - Started building a Restful API with spring boot for a university project
+* Freecodecamp - Finished and deployed my TimeStamp Microservices on Heroku
+
 ### Day 17: March 10, 2018
 
 **Today's Progress:**
