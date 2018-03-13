@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 19: March 12, 2018
+
+**Today's Progress:**
+* Javascript - Going deep on comparising ES6 and pre-ES6. Using Webpack and Babel to pre compile ES6 to old Javascript in not supported browsers.
+* Node.js - Played around with the built in modules OS and FS. Tested lodash functions and yargs to handle the input command line arguments from user.
+
 ### Day 18: March 11, 2018
 
 **Today's Progress:**
