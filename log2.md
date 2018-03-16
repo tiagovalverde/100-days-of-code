@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log 2
 
+### Day 22: March 15, 2018
+* Laravel - Seting up the Routes, Controllers and the Views Template for a school project where we have to simulate a application that handles the financials, members and payments of a fitness club.
+
+### Day 21: March 14, 2018
+* Javascript - Review of template literals, arrow functions, differences between classes and prototypes and how to create modules
+
+**Today's Progress:**
+* Angular - Final Lectures on the Angular course. THe ngrx section is huge.
+
+### Day 20: March 13, 2018
+
+**Today's Progress:**
+* Angular - Final Lectures on the Angular course. THe ngrx section is huge.
+
 ### Day 19: March 12, 2018
 
 **Today's Progress:**
