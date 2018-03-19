@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 2
 
+### Day 24: March 18, 2018
+* Unit Tests - Studied and and built some examples on unit tests and test driven development. Also learned about other different types of tests such as integrations tests, acceptance tests, system tests.
+
+### Day 23: March 17, 2018
+* Design Patterns - Build and tested different types of in Java (Facade, Bridge and Class Adapters)
+
 ### Day 22: March 15, 2018
 * Laravel - Seting up the Routes, Controllers and the Views Template for a school project where we have to simulate a application that handles the financials, members and payments of a fitness club.
 
