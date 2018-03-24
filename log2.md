@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log 2
 
+### Day 27: March 23, 2018
+* ES2016 - Playing with the built-indata structures Set() and Map(). Reminded me of the Java existent Data Structures.
+* ES2016 - Read more about Closures and Scoping. How we can have private data and access it only through functions returned to the global scope
+
+**Thoughts:** 
+* Missed a coupled of days of 100DaysOfcode but for a good cause. I had two assignments to finish and had two tests, one on Software Engineering (Design Patterns, User Interface, QA and Testing) and other in Discrete Structures (Graphs, Tress, Regular Expressions and Finite State Autotmate).
+
+
+
+### Day 25/26: March 20/21, 2018
+* Laravel - Working on a school project to simulate an agile development cycle by executing sprints with other students.
+
 ### Day 24: March 18, 2018
 * Unit Tests - Studied and and built some examples on unit tests and test driven development. Also learned about other different types of tests such as integrations tests, acceptance tests, system tests.
 
