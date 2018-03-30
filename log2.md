@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log 2
 
+### Day 33: March 29, 2018
+* Angular - Worked with animations
+* Nodejs - Got Passport working with JWT and also comparing the password hashed from a user in the database.
+* Angular - Start setting up the client side to interact with the node API.
+
+### Day 32: March 28, 2018
+* Didnt actually coded but reviewed a bunch of Javascript, Object Oriented and Software Structuring for a Interview. 
+* Had my first white board interview.
+
+### Day 31: March 27, 2018
+* Java - Spend most of the day implementing a backtracking algorithm to find the Euler Circuit in a Graph for a university assignment.
+
+### Day 30: March 26, 2018
+* MEAN - Started developing a application with Node.js, MongoDb, Express.js and Angular. The challenge is will be implementing JWT with passport to handle authentication and access control.
+
+### Day 29: March 25, 2018
+* React - Built a simple react app searching books from the Google API Books
+
 ### Day 28: March 24, 2018
 * Angular - Setting up angular projects to execute server side render for better SEO.
 * ES6/ES7/ES8 - Playing with the Generators, Promises, Async and Awaut and new functions such has entries() invoing objects
