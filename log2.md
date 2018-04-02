@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log 2
 
+### Day 36: April 1, 2018
+* Mean App - Register and Login user from Angular to Nodejs using JWT
+* Laravel - Worked with Models, Migrations and used Faker to create dummy data in the application.
+* CSS3 - Created a background animation with Keyframes.
+
+### Day 35: March 31, 2018
+* Javascript - Finished a 2D classic game.
+
+### Day 34: March 30, 2018
+* Angular - Setting up a custom project from scratch with no angular-cli.
+* Javascript - Started a 2D classic game.
+* Angular - Start setting up the client side to interact with the node API.
+
 ### Day 33: March 29, 2018
 * Angular - Worked with animations
 * Nodejs - Got Passport working with JWT and also comparing the password hashed from a user in the database.
