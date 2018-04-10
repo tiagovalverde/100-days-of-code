@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log 2
 
+### Day 45: April 8
+* Java and Selinium - Testing basic automation with Selenium Webdriver by navingation and searching on wikipedia
+* CSS3 - Animations with keyframes - starfield animation effect
+
+### Day 44: April 8
+* CSS3 - Animations with keyframes - loading effect
+
+### Day 43: April 7
+* CSS3 - Animations with keyframes - button text slider effect
+
+### Day 37 to 42: April 1, 2018 to April 6, 2018
+* Laravel - Worked with Controllers and Views and finished the school project. 
+* Git/Bitbucket - Got a lot of practice on working with branches and executing merges and resolve conflicts.
+
 ### Day 36: April 1, 2018
 * Mean App - Register and Login user from Angular to Nodejs using JWT
 * Laravel - Worked with Models, Migrations and used Faker to create dummy data in the application.
