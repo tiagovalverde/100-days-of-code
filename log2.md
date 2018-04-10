@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log 2
 
-### Day 45: April 8
+### Day 45: April 9
 * Java and Selinium - Testing basic automation with Selenium Webdriver by navingation and searching on wikipedia
 * CSS3 - Animations with keyframes - starfield animation effect
 
