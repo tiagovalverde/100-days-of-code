@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 2
 
+### Day 47: April 11
+* Nodejs - Using puppeteer for automation and scraping web pages.
+* CSS3 - Classic loading screen circle
+
+### Day 46: April 10
+* Nodejs - Using puppeteer for automation and scraping web pages.
+* CSS3 - toggle menu with flexbox
+
 ### Day 45: April 9
 * Java and Selinium - Testing basic automation with Selenium Webdriver by navingation and searching on wikipedia
 * CSS3 - Animations with keyframes - starfield animation effect
