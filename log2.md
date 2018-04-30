@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log 2
 
+### Day 49: April 29
+* MEAN app - Data requests with authetication token for validation.
+* Nodejs - Advaced yargs configuration 
+
+### Day 48: April 28
+* Nodejs - working on a notes app with focused interface on terminal using yargs. Using modules and extensive use on arrow functions.
+
 ### Day 47: April 11
 * Nodejs - Using puppeteer for automation and scraping web pages.
 * CSS3 - Classic loading screen circle
