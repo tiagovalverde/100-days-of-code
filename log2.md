@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log 2
 
+### Day 50: May 21
+* Node.js - Working with user authentiation api requests using JWT, BCRYPT, MOONGODB and EXPRESS
+* Java-Selenium - Setting up webdrivers and practicing selecting html elements with XPATH and CSS Selectors
+
 ### Day 49: April 29
 * MEAN app - Data requests with authetication token for validation.
 * Nodejs - Advaced yargs configuration 
